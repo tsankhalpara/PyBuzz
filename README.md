@@ -12,5 +12,6 @@ In all other cases, the program simply returns the given number.
 - Clone this repository.
 - Change to this directory in terminal.
 - Run the following in terminal:
-``` python fizzbuzz.py
+```
+python fizzbuzz.py
 ```
